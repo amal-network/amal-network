@@ -25,4 +25,4 @@ I'm a network engineer with deep experience in datacenter operations, service pr
 
 ## Connect With Me
 
-[LinkedIn]linkedin.com/in/amal-indika-dharmapala-593886138 | 📧 indika000@gmail.com
+[LinkedIn](https://www.linkedin.com/in/amal-dharmapala) | 📧 indika000@gmail.com
