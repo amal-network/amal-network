@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Amal Dharmapala
 
-<!--
-**amal-network/amal-network** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Network Engineer | Datacenter Engineer**
 
-Here are some ideas to get you started:
+15+ years in enterprise & service provider networks.  
+Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a network engineer with deep experience in datacenter operations, service provider networks, and ISO 27001 compliance. After a career break, I'm now returning to hands-on network engineering roles.
+
+## What I Do
+
+- 🔧 Network automation (Bash/Perl/Expect)
+- 📡 DC monitoring (Zabbix, Nagios, Cacti)
+- ☁️ Hybrid cloud networking (AWS/Azure fundamentals)
+- 📜 ISO/IEC 27001:2022 ISMS compliance
+
+## Current Focus
+
+- 📂 Building network automation scripts → [network-config-backup](link-to-your-repo)
+- 🎯 Open for Senior Network Engineer roles
+
+## Connect With Me
+
+[LinkedIn]linkedin.com/in/amal-indika-dharmapala-593886138 | 📧 indika000@gmail.com
