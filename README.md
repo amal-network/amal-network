@@ -20,7 +20,7 @@ I'm a network engineer with deep experience in datacenter operations, service pr
 
 ## Current Focus
 
-- 📂 Building network automation scripts → [network-config-backup]([network-config-backup](https://github.com/amal-network/network-config-backup)
+- 📂 Building network automation scripts → [network-config-backup](https://github.com/amal-network/network-config-backup)
 - 🎯 Open for Senior Network Engineer roles
 
 ## Connect With Me
