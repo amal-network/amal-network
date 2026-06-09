@@ -1,9 +1,13 @@
 # 👋 Hello, I'm Amal Dharmapala
 
-**Senior Network Engineer | Datacenter Engineer**
+**Senior Network Engineer | Data Center Infrastructure Specialist**
 
-15+ years in enterprise & service provider networks.  
-Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
+20+ years in Enterprise & Service Provider Networks
+Data Center Operations & Infrastructure
+MPLS, BGP, Routing & Switching
+Cisco, Huawei & Ekinops Platforms
+Network Monitoring & Automation
+ISO/IEC 27001 Compliance
 
 ---
 
