@@ -2,7 +2,7 @@
 
 **Senior Network Engineer | Data Center Infrastructure Specialist**
 
-20+ years in Enterprise & Service Provider Networks
+20+ years in Enterprise & Service Provider Networks |
 Data Center Operations & Infrastructure
 MPLS, BGP, Routing & Switching
 Cisco, Huawei & Ekinops Platforms
