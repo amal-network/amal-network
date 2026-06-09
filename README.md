@@ -41,7 +41,22 @@ Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
 
 ---
 
+## 🖥️ Web App Development Portfolio
+
+I've built **8 production-ready datacenter infrastructure web applications**:
+
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| Rack Capacity Dashboard | HTML/CSS/JS, Chart.js | [View](https://amal-network.github.io/datacenter-portfolio/projects/rack-dashboard/index.html) |
+| PDU Power Monitor | WebSockets, Real-time gauges | [View](https://amal-network.github.io/datacenter-portfolio/projects/pdu-monitor/index.html) |
+| IPAM Visualizer | CIDR calculator, Tree view | [View](https://amal-network.github.io/datacenter-portfolio/projects/ipam-tool/index.html) |
+| Compliance Gap Analyzer | GRC tracking, Evidence mgmt | [View](https://amal-network.github.io/datacenter-portfolio/projects/compliance-analyzer/index.html) |
+| + 4 more projects | Full-stack frontend | [View Portfolio](https://amal-network.github.io/datacenter-portfolio/) |
+
+**Skills demonstrated:** HTML5, CSS3, JavaScript ES6+, Chart.js, LocalStorage, Fetch API, CSV/JSON parsing, Responsive Design
 ## 📫 Connect With Me
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-dharmapala)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amal-network)
