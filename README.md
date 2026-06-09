@@ -9,12 +9,19 @@ Cisco, Huawei & Ekinops Platforms
 Network Monitoring & Automation
 ISO/IEC 27001 Compliance
 
-📂 Currently building network automation and infrastructure monitoring projects.
----
-
 ## About Me
 
-I'm a network engineer with deep experience in datacenter operations, service provider networks, and ISO 27001 compliance. After a career break, I'm now returning to hands-on network engineering roles.
+Senior Network & Data Center Engineer with 20+ years of experience in enterprise and service provider environments.
+
+Core expertise:
+Data Center Operations
+Network Infrastructure
+MPLS & BGP Networks
+Cisco, Huawei & Ekinops Platforms
+Network Monitoring & Automation
+ISO/IEC 27001 Compliance
+Linux Administration
+
 
 ## What I Do
 
