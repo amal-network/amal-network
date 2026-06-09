@@ -9,6 +9,7 @@ Cisco, Huawei & Ekinops Platforms
 Network Monitoring & Automation
 ISO/IEC 27001 Compliance
 
+📂 Currently building network automation and infrastructure monitoring projects.
 ---
 
 ## About Me
