@@ -14,9 +14,10 @@ Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
 |------|--------------|
 | **Datacenter Operations** | DCIM, Rack capacity planning, Cooling efficiency, PUE optimization |
 | **Network Infrastructure** | MPLS, BGP, OSPF, VXLAN, EVPN, Segment Routing |
-| **Platforms** | Cisco (ASR/Nexus/ISR), Huawei (NE/CE), Ekinops (Optical/MPLS) |
+| **Platforms** | Cisco (ASR/Nexus/ISR), Huawei (NE/CE), Ekinops (Edge/SDWAN/Optical/MPLS) |
 | **Monitoring & Automation** | Zabbix, Nagios, Cacti, SolarWinds, PRTG, Bash/Perl/Expect |
 | **Compliance** | ISO/IEC 27001:2022 ISMS, SOC2, NIST CSF |
+| **Web Development** | HTML5, CSS3, JavaScript ES6+, Chart.js, Responsive Design, Wordpress | 
 
 ---
 
@@ -36,15 +37,25 @@ Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
 - 🖧 **Datacenter Infrastructure Portfolio** → [8 production-ready projects](https://amal-network.github.io/datacenter-portfolio/)
   - Rack Capacity Dashboard | PDU Monitor | IPAM | Compliance Analyzer | Risk Register | VM Forecaster | Cooling Optimizer | Network Planner
 - 🎯 Open for **Senior Network/Datacenter Engineer** roles
+- 📚 Learning **React** for next-gen dashboard development
 
 ---
 
 ## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-dharmapala)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amal-network)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indika000@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/amal-dharmapala) | 📧 indika000@gmail.com | [GitHub](https://github.com/amal-network)
 
 ---
 
+> 💡 *"20+ years of network engineering experience, now building modern web tools for datacenter infrastructure."*
+
+---
+
+⭐ **View my live portfolio:** [amal-network.github.io/datacenter-portfolio](https://amal-network.github.io/datacenter-portfolio/)
 ## 📊 Quick Stats
 
 | Category | Expertise Level |
@@ -55,3 +66,12 @@ Cisco | Huawei | Ekinops | MPLS | BGP | ISO 27001
 | ISO 27001 Compliance | ⭐⭐⭐⭐ |
 | Cloud Networking | ⭐⭐⭐ |
 | Linux Administration | ⭐⭐⭐⭐ |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-network&show_icons=true&theme=radical&hide=prs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-network&layout=compact&theme=radical)
+
+
